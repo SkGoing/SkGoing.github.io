@@ -15,7 +15,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: SK
 organization: 
 organization_url: 
 github_username: SkGoing
@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: SkGoing/SkGoing.github.io
 
 # ---------------- #
 #      Comments    #
@@ -95,17 +95,17 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: SK
+    owner: SkGoing
     repo: blog-comments
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: e7c872e0bb603fb599ef
+        client_secret: 07f50b74a8bf0710098875ce2189a294cf1a3ad7
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
+    owner: SkGoing
     repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    clientID: e7c872e0bb603fb599ef
+    clientSecret: 07f50b74a8bf0710098875ce2189a294cf1a3ad7
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
