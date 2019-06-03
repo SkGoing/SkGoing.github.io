@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://skgoing.cn
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+title: SK
+subtitle: "好好学习，天天向上"
+description: "SK的个人博客"
+keywords: SK
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -20,7 +20,7 @@ organization:
 organization_url: 
 github_username: mzlogin
 location: Wuhan, China
-email: chumpma@gmail.com
+email: 370060721@qq.com
 
 # ---------------- #
 #    Navigation    #
@@ -95,7 +95,7 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
+    owner: SK
     repo: blog-comments
     oauth:
         client_id: d2e1cbbd298958076462
